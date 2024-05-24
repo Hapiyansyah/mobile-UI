@@ -1,6 +1,5 @@
 # mobile-UI
 
 ## Youtube
-```
-sedang di edit 
-```
+
+1. https://youtu.be/jKU9kLoU6g8?si=l6Cbnfg5952ClOKh
