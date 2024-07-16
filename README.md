@@ -9,7 +9,7 @@ Kelas : TI.22.A2
 
 1. https://youtu.be/UfXkWQ4bzqw?si=Abbk9hXdFToEC-dx
 
-**Proyek: Aplikasi Android untuk Laporan Keuangan KAS RT**
+## **Proyek: Aplikasi Android untuk Laporan Keuangan KAS RT**
 
 Deskripsi Singkat:
 Proyek ini bertujuan untuk membuat aplikasi Android yang dapat menghasilkan laporan keuangan KAS RT dengan menggunakan data yang tersedia dalam Google Spreadsheet. Melalui penerapan parsing data JSON dan penggunaan API Spreadsheet, aplikasi ini akan membantu pengguna untuk mengakses dan menganalisis data keuangan dengan lebih efisien.
